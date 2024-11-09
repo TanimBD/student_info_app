@@ -58,7 +58,7 @@ dev_dependencies:
 # The following section is specific to Flutter packages.
 flutter:
   assets:
-    - assets/Screenshot 2024-11-09 224307.png
+    - https://github.com/TanimBD/student_info_app/blob/872d5dc55db576dede659741999e482f454d1923/assets/Screenshot%202024-11-09%20224307.png
 
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in

@@ -1,5 +1,6 @@
 # student_info_app
 
+![screenshot](https://github.com/TanimBD/student_info_app/blob/872d5dc55db576dede659741999e482f454d1923/assets/Screenshot%202024-11-09%20224307.png)
 
 A new Flutter project.
 
