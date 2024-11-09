@@ -1,5 +1,7 @@
 # student_info_app
 
+![screenshot](C:\Users\User\StudioProjects\student_info_app\assets\Screenshot 2024-11-09 224307.png)
+
 A new Flutter project.
 
 ## Getting Started
